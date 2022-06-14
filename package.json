@@ -1,0 +1,23 @@
+{
+  "name": "react-tech-blog",
+  "version": "1.0.0",
+  "description": "This is a react implementation of my mvc tech blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvbridge/react-tech-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvbridge/react-tech-blog/issues"
+  },
+  "homepage": "https://github.com/jvbridge/react-tech-blog#readme",
+  "dependencies": {
+    "concurrently": "^7.2.1"
+  }
+}
