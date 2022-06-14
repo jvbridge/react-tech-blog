@@ -19,5 +19,8 @@
   "homepage": "https://github.com/jvbridge/react-tech-blog#readme",
   "dependencies": {
     "concurrently": "^7.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
   }
 }
